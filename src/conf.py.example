@@ -1,0 +1,5 @@
+database_name = '%%NAME_OF_DATABASE%%'
+
+unsplash_key = '%%UNSPLASH_API_KEY%%'
+
+path_wallpaper = '%%PATH_TO_FOLDER_STORING_IMAGES%%'
